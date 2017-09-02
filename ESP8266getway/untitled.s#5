@@ -8240,9 +8240,9 @@ Source: www.kingbright.com</description>
 <part name="+3V2" library="supply1" deviceset="+3V3" device=""/>
 <part name="+3V3" library="supply1" deviceset="+3V3" device=""/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
-<part name="R2" library="rcl" deviceset="R-EU_" device="0207/12"/>
+<part name="R2" library="rcl" deviceset="R-EU_" device="R0805"/>
 <part name="+3V4" library="supply1" deviceset="+3V3" device=""/>
-<part name="R3" library="rcl" deviceset="R-EU_" device="0207/12"/>
+<part name="R3" library="rcl" deviceset="R-EU_" device="R0805"/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="JP7" library="pinhead" deviceset="PINHD-1X2" device=""/>
 <part name="R4" library="rcl" deviceset="R-EU_" device="0207/12"/>

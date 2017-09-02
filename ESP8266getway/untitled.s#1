@@ -8234,8 +8234,8 @@ Source: www.kingbright.com</description>
 <part name="P+1" library="supply1" deviceset="+5V" device=""/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
-<part name="C1" library="rcl" deviceset="C-EU" device="025-024X044"/>
-<part name="C2" library="rcl" deviceset="C-EU" device="025-024X044"/>
+<part name="C1" library="rcl" deviceset="C-EU" device="C1812K"/>
+<part name="C2" library="rcl" deviceset="C-EU" device="C1812K"/>
 <part name="+3V1" library="supply1" deviceset="+3V3" device=""/>
 <part name="+3V2" library="supply1" deviceset="+3V3" device=""/>
 <part name="+3V3" library="supply1" deviceset="+3V3" device=""/>

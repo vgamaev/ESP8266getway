@@ -8341,11 +8341,6 @@ Source: www.kingbright.com</description>
 <wire x1="33.02" y1="66.04" x2="33.02" y2="63.5" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="GND8" gate="1" pin="GND"/>
-<wire x1="17.78" y1="106.68" x2="22.86" y2="106.68" width="0.1524" layer="91"/>
-<wire x1="22.86" y1="106.68" x2="22.86" y2="101.6" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="GND9" gate="1" pin="GND"/>
 <wire x1="-12.7" y1="106.68" x2="-5.08" y2="106.68" width="0.1524" layer="91"/>
 <wire x1="-5.08" y1="106.68" x2="-5.08" y2="104.14" width="0.1524" layer="91"/>
@@ -8363,6 +8358,11 @@ Source: www.kingbright.com</description>
 <pinref part="GND6" gate="1" pin="GND"/>
 <pinref part="LED3" gate="G$1" pin="C"/>
 <wire x1="43.18" y1="88.9" x2="38.1" y2="88.9" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="GND8" gate="1" pin="GND"/>
+<wire x1="17.78" y1="106.68" x2="22.86" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="106.68" x2="22.86" y2="101.6" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="+5V" class="0">
